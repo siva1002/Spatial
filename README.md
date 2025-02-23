@@ -14,7 +14,7 @@ cp .env.example .env
 
 ### 3. Build and Start the Containers
 ```sh
-docker-compose up --build -d
+docker compose up --build -d
 ```
 This command:
 - Builds the Docker image

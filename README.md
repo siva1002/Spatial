@@ -35,11 +35,11 @@ Follow the prompts to create an admin user.
 ## Stopping and Removing Containers
 To stop the running containers:
 ```sh
-docker-compose down
+docker compose down
 ```
 To stop and remove all containers, networks, and volumes:
 ```sh
-docker-compose down -v
+docker compose down -v
 ```
 
 ### Author: Sivasuruli

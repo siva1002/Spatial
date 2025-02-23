@@ -23,7 +23,7 @@ This command:
 
 ### 5. Create a Superuser (Optional)
 ```sh
-docker-compose exec django python manage.py createsuperuser
+docker compose exec django python manage.py createsuperuser
 ```
 Follow the prompts to create an admin user.
 

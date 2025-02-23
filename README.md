@@ -11,12 +11,6 @@ Copy the `.env.example` file to `.env` and update the necessary variables.
 ```sh
 cp .env.example .env
 ```
-Modify `.env` with your preferred settings:
-```
-DJANGO_SECRET_KEY=your-secret-key
-DEBUG=True
-DATABASE_URL=postgres://user:password@db:5432/dbname
-```
 
 ### 3. Build and Start the Containers
 ```sh

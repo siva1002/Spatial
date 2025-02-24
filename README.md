@@ -1,7 +1,8 @@
 ## Technologies Used
-# Django
-# REST
-# Postgis
+```
+Django
+REST
+Postgis```
 
 ## Steps to Run the Application
 

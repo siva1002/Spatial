@@ -1,3 +1,8 @@
+## Technologies Used
+# Django
+# REST
+# Postgis
+
 ## Steps to Run the Application
 
 ### 1. Clone the Repository

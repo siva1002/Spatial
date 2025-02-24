@@ -2,7 +2,8 @@
 ```
 Django
 REST
-Postgis```
+Postgis
+```
 
 ## Steps to Run the Application
 
